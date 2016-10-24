@@ -16,11 +16,11 @@
 - Run project
 
 # Engpoints
-- 'GET /api/pages' - Get all pages
-- 'GET /api/pages/{id}' - Get specific page
-- 'GET /api/pages/{id}?version={version}' - Get specific version of specific page
-- 'GET /api/pages/{id}/versions' - Get all page versions
-- 'POST /api/pages/{id}/versions/{version}' - Change default page vesion
-- 'POST /api/pages Body: {"Title" : "title", "Text" : "text"}' - Create new page
-- 'PUT /api/pages Body: {"Title" : "title", "Text" : "text", "Id" : 1}' - Update page
+- <i>GET /api/pages</i> - Get all pages
+- <i>GET /api/pages/{id}</i> - Get specific page
+- <i>GET /api/pages/{id}?version={version}</i> - Get specific version of specific page
+- <i>GET /api/pages/{id}/versions</i> - Get all page versions
+- <i>POST /api/pages/{id}/versions/{version}</i> - Change default page vesion
+- <i>POST /api/pages Body: {"Title" : "title", "Text" : "text"}</i> - Create new page
+- <i>PUT /api/pages Body: {"Title" : "title", "Text" : "text", "Id" : 1}</i> - Update page
 
