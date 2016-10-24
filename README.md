@@ -24,3 +24,6 @@
 - <i>POST /api/pages Body: {"Title" : "title", "Text" : "text"}</i> - Create new page
 - <i>PUT /api/pages Body: {"Title" : "title", "Text" : "text", "Id" : 1}</i> - Update page
 
+# Demo
+Small demo video https://youtu.be/_errLsXg_Ac (First 30 seconds quality is not that good)
+
